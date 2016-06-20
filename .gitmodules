@@ -1,0 +1,6 @@
+[submodule "/home/weberhsu/Arduino_ws/Angel_servo"]
+	path = /home/weberhsu/Arduino_ws/Angel_servo
+	url = https://github.com/Weber-Hsu/AngelBot.git
+[submodule "Angel_servo"]
+	path = Angel_servo
+	url = https://github.com/Weber-Hsu/AngelBot.git
