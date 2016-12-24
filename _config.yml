@@ -1,6 +1,11 @@
 theme: jekyll-theme-cayman
 #title: Ar robot analysis
-layout: "default"
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 description: 
 google_analytics: 
 show_downloads: true
