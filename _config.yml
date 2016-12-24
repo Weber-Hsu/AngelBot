@@ -13,3 +13,4 @@ site.github: {"zip_url": "https://github.com/Weber-Hsu/AR_robot_analysis/zipball
 
 gems:
   - jekyll-mentions
+gems: ['jekyll-github-metadata']
