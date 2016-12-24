@@ -9,7 +9,7 @@ theme: jekyll-theme-cayman
 description: 
 google_analytics: 
 show_downloads: true
-zip_url: "https://github.com/github/metadata-example/zipball/gh-pages"
+zip_url: "https://github.com/Weber-Hsu/AR_robot_analysis/zipball/master"
 gems:
   - jekyll-mentions
   - jekyll-github-metadata
