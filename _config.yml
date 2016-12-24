@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 #title: Ar robot analysis
-layout: default
+layout: "default"
 description: 
 google_analytics: 
 show_downloads: true
