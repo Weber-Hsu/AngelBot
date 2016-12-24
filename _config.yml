@@ -9,5 +9,8 @@ theme: jekyll-theme-cayman
 description: 
 google_analytics: 
 show_downloads: true
+{% for repository in site.github.zip_url %}
+  * [{{ Download this project as a .zip file }}]({{ https://github.com/Weber-Hsu/AR_robot_analysis/zipball/master }})
+{% endfor %}
 gems:
   - jekyll-mentions
