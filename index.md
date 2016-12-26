@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Servo_Test
+{:toc}
 ---
 <!--div class="blurb">
 	<h1>Hi there, I'm s</h1>
